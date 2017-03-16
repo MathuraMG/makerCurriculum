@@ -49,8 +49,7 @@ html, body, nav, h1, h2, h3 {
     border: 2px solid #5ca9b1; }
 
 .teacher-container, .solution-container {
-  background-color: #ffffff;
-  display: none; }
+  background-color: #ffffff; }
 
 .student-container, .problem-container {
   background-color: #f9f9fb; }
